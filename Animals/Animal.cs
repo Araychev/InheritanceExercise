@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Animals
+﻿namespace Animals
 {
-   public class Animal
+    public class Animal
     {
         public Animal(string name, int age, string gender)
         {

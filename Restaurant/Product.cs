@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Restaurant
+﻿namespace Restaurant
 {
-   public class Product
+    public class Product
     {
 
         public Product(string name, decimal price)

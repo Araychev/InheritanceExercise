@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace PlayersAndMonsters
+﻿namespace PlayersAndMonsters
 {
-   public class DarkKnight:Knight
+    public class DarkKnight:Knight
     {
-        public DarkKnight(string username, int level) : base(username, level)
+        public DarkKnight(string username, int level) 
+            : base(username, level)
         {
         }
     }
